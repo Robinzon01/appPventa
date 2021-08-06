@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appPventa"
+    }
+  },
+  "defaultProject": "appPventa",
+  "cli": {
+    "analytics": false
+  }
 }
